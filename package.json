@@ -1,0 +1,9 @@
+{
+	 "name": "cachet"
+	,"version": "0.0.1"
+	,"author": "Andrew Maurer"
+	,"description": "Tiny Caching functions designed to expire ts content either by duration or date object."
+	,"homepage": "https://github.com/amaurer/Cachet"
+	,"engines": ["node >= 0.4.10"]
+	,"main": "lib/"
+}
